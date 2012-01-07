@@ -6,3 +6,4 @@ target/
 
 db/hsqldb/jpetstore.properties
 db/hsqldb/jpetstore.log
+db/hsqldb/jpetstore.lck
