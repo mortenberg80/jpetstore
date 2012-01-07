@@ -4,3 +4,5 @@
 .svn/
 target/
 
+db/hsqldb/jpetstore.properties
+db/hsqldb/jpetstore.log
